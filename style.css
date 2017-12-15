@@ -1,0 +1,31 @@
+body {
+    background-image: url("coding.jpg");
+    padding-top: 15px;
+}
+.entrybox{
+background-color: white;
+opacity: .6;
+width: 80%;
+margin: auto;
+}
+p{
+  color: black;
+  font-weight: bold;
+  letter-spacing: 0.2px;
+  opacity: 2;
+    font-size: 18px;
+    font-family: sans-serif;
+}
+.title{
+  text-align: center;
+  background-color: white;
+  opacity: .6;
+  color: red;
+  font-weight: bold;
+}
+h1{
+  text-align: center;
+font-weight: bold;
+color: blue;
+ font-family: sans-serif;
+}
